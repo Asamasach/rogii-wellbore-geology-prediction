@@ -1,0 +1,15 @@
+{
+  "id": "asamasach/rogii-sani",
+  "title": "rogii-sani",
+  "code_file": "9-946-rogii-geostat-softmax-ncc-hybrid.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": ["rogii-wellbore-geology-prediction"],
+  "model_sources": []
+}

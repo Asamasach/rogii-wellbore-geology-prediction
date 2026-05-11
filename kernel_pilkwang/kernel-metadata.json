@@ -1,0 +1,15 @@
+{
+  "id": "asamasach/rogii-pilkwang",
+  "title": "rogii-pilkwang",
+  "code_file": "rogii-eda-leakage-aware-submission-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": ["pilkwang/pilkwang-public-dataset-for-notebooks-figures"],
+  "kernel_sources": [],
+  "competition_sources": ["rogii-wellbore-geology-prediction"],
+  "model_sources": []
+}
