@@ -18,6 +18,9 @@ submissions/
 # --- Other people's notebooks pulled for study or fork ---
 public_baselines/
 kernel_v9956/*.ipynb
+kernel_top3/*.ipynb
+kernel_sani/*.ipynb
+kernel_pilkwang/*.ipynb
 
 # --- Kaggle Kernel checkpoints / outputs ---
 .ipynb_checkpoints/
