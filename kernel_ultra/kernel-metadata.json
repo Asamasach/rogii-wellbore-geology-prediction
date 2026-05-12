@@ -1,0 +1,15 @@
+{
+  "id": "asamasach/rogii-ultra",
+  "title": "rogii-ultra",
+  "code_file": "rogii-ultra-sub-9-rmse.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": ["rogii-wellbore-geology-prediction"],
+  "model_sources": []
+}

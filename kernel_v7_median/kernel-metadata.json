@@ -1,0 +1,19 @@
+{
+  "id": "asamasach/rogii-v7-median",
+  "title": "rogii-v7-median",
+  "code_file": "median.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["rogii-wellbore-geology-prediction"],
+  "kernel_sources": [
+    "asamasach/rogii-top3",
+    "asamasach/rogii-better-solution-9956",
+    "asamasach/rogii-pilkwang"
+  ],
+  "model_sources": []
+}

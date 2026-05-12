@@ -1,0 +1,21 @@
+{
+  "id": "asamasach/rogii-v9-5fork-median",
+  "title": "rogii-v9-5fork-median",
+  "code_file": "median5.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["rogii-wellbore-geology-prediction"],
+  "kernel_sources": [
+    "asamasach/rogii-ultra",
+    "asamasach/rogii-tasmim",
+    "asamasach/rogii-top3",
+    "asamasach/rogii-better-solution-9956",
+    "asamasach/rogii-pilkwang"
+  ],
+  "model_sources": []
+}
