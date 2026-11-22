@@ -1,4 +1,4 @@
-# ROGII — Wellbore Geology Prediction
+# ROGII - Wellbore Geology Prediction
 
 Work-in-progress on the [ROGII Wellbore Geology Prediction](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction) Kaggle competition.
 
@@ -38,7 +38,7 @@ The competition data is **not** redistributed in this repo. To reproduce:
    ```
    kaggle competitions download -c rogii-wellbore-geology-prediction -p data/raw/
    ```
-3. The remote-execution helpers (`scripts/migrate_to_fteam11.py`, etc.) read connection info from env vars — set:
+3. The remote-execution helpers (`scripts/migrate_to_fteam11.py`, etc.) read connection info from env vars - set:
    ```
    export FTEAM6_HOST=...   FTEAM6_PORT=...   FTEAM6_USER=...   FTEAM6_PASS=...
    export FTEAM11_HOST=...  FTEAM11_PORT=...  FTEAM11_USER=...  FTEAM11_PASS=...
